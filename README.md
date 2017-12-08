@@ -1,4 +1,4 @@
-# DS_Carcassonne
+# CSCI-1200-Carcassonne
 RPI CSCI-1200 Data Structures, Fall 2014/Spring 2015, Homework 6 - Carcassonne Recursion <br />
 By Erebuxy
 
@@ -37,3 +37,7 @@ Command | # of Solutions | Runtime
 `puzzle8.txt -all_solutions -allow_rotations` | 23 | 1.048s
 `puzzle9.txt -all_solutions` | 9 | 0.035s
 `puzzle9.txt -all_solutions -allow_rotations` | 378 | 1m9.055s
+
+## Reference
+* http://www.cs.rpi.edu/academics/courses/fall14/csci1200/
+* http://www.cs.rpi.edu/academics/courses/spring15/csci1200/
